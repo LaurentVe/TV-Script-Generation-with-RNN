@@ -21,7 +21,7 @@ Download the repository and run the notebook to train the model and generate you
 
 ## How to use
 
-Once the model is trained, choose the desired length of the output (I used 400 words) and provide the network the character to start the script ("George", elaine"...).
+Once the model is trained, choose the desired length of the output (I used 400 words) and provide the network the character to start the script ("George"...) or any other character existing in the vocabulary.
 
 Set `gen_length`
 
@@ -58,4 +58,5 @@ Some randomness is used to predict next word by randomly picking out one of the 
 ## Results
 
 Excerpt of a generated script:
+
 ![](generated_script.PNG)
