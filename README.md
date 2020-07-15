@@ -1,6 +1,6 @@
 # TV-Script-Generation-with-RNN
 
-This project generate a TV script from scratch using RNNs.
+This project generate a TV script from scratch using RNNs. It is one of the projects from Udacity's Deep Learning Nanodegree.
 
 The model is trained on a part of the Seinfeld's dataset of TV scripts from 9 seasons (1989-1998).
 
