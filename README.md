@@ -21,7 +21,7 @@ Download the repository and run the notebook to train the model and generate you
 
 ## How to use
 
-Once the model is trained, choose the desired length of the output (I used 400 words) and provide the network the character to start the script ("George"...) or any other character existing in the vocabulary.
+Once the model is trained, choose the desired length of the output (I used 400 words) and provide to the network the character's name starting the script ("George"...) or any other character existing in the vocabulary.
 
 Set `gen_length`
 
